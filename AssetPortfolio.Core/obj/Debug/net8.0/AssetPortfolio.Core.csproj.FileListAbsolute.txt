@@ -1,0 +1,14 @@
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\bin\Debug\net8.0\AssetPortfolio.Core.deps.json
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\bin\Debug\net8.0\AssetPortfolio.Core.runtimeconfig.json
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\bin\Debug\net8.0\AssetPortfolio.Core.dll
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\bin\Debug\net8.0\AssetPortfolio.Core.pdb
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\AssetPortfolio.Core.csproj.AssemblyReference.cache
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\AssetPortfolio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\AssetPortfolio.Core.AssemblyInfoInputs.cache
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\AssetPortfolio.Core.AssemblyInfo.cs
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\AssetPortfolio.Core.csproj.CoreCompileInputs.cache
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\AssetPortfolio.Core.dll
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\refint\AssetPortfolio.Core.dll
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\AssetPortfolio.Core.pdb
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\AssetPortfolio.Core.genruntimeconfig.cache
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Core\obj\Debug\net8.0\ref\AssetPortfolio.Core.dll

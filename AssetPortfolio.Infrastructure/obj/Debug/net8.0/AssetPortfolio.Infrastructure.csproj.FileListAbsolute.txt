@@ -1,0 +1,17 @@
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\bin\Debug\net8.0\AssetPortfolio.Infrastructure.deps.json
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\bin\Debug\net8.0\AssetPortfolio.Infrastructure.runtimeconfig.json
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\bin\Debug\net8.0\AssetPortfolio.Infrastructure.dll
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\bin\Debug\net8.0\AssetPortfolio.Infrastructure.pdb
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\bin\Debug\net8.0\AssetPortfolio.Core.dll
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\bin\Debug\net8.0\AssetPortfolio.Core.pdb
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPortfolio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPortfolio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPortfolio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPortfolio.Infrastructure.AssemblyInfo.cs
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPortfolio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPor.D568DD10.Up2Date
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPortfolio.Infrastructure.dll
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\refint\AssetPortfolio.Infrastructure.dll
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPortfolio.Infrastructure.pdb
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\AssetPortfolio.Infrastructure.genruntimeconfig.cache
+C:\Users\AbishekKamalakannan\Desktop\AssetPortfolioAPI\AssetPortfolio.Infrastructure\obj\Debug\net8.0\ref\AssetPortfolio.Infrastructure.dll
